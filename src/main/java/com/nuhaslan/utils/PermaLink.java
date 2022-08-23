@@ -2,9 +2,7 @@ package com.nuhaslan.utils;
 
 public class PermaLink {
 
-    //GITHUB :
-
-    
+    //GITHUB : https://github.com/Nslan/springProjects.git
 
 
 }
